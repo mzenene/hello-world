@@ -6,4 +6,4 @@ class Umbhuliso():
 
     def veza(igama,iminyaka,ilizwe):
         if(igama!=None):
-            print(f"Molo {igama} uneminyaka e{iminyaka} uvela kwilizwe lase {ilizwe}")
+            print(f"Molo {igama} uneminyaka eyi{iminyaka} uvela kwilizwe lase {ilizwe}")
