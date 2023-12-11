@@ -8,4 +8,4 @@ class Umbhuliso():
         if(igama!=""):
             print(f"Molo {igama} uneminyaka eyi{iminyaka} uvela kwilizwe lase {ilizwe}")
         else:
-            print(f"Yazi uwuva ! ndithe kuwe ubhale igama,iminyaka nendawo uvela kuyo")
+            print(f"Yazi awuva ! ndithe kuwe ubhale igama,iminyaka nendawo uvela kuyo")
