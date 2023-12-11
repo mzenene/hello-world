@@ -1,5 +1,6 @@
 import classes
-
+# method will prompt the user to enter name,age and country and will initialize 
+# and return them as object of class Umbhuliso
 def buza():
      igama = input("Ungubani?: ")
      iminyaka =input("Uneminyaka emingaphi?: ")
